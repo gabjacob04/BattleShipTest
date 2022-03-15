@@ -53,6 +53,9 @@ namespace BattleShip
                         }
                         e.Graphics.FillRectangle(Brushes.Blue, new Rectangle(positionX, positionY, tailleX, tailleY));
                         positionX = positionX + 50;
+
+
+
                     }
                 }
             }
